@@ -20,7 +20,7 @@ print("╔╣╠╣║║║║║║║║║║╚╣╚═╝║║╚╝║�
 print("╚══╩╝╚╩╝╚╩╝╚╩╩═╩═╗╔╝╚══╩══╩╩╩╩══╩══╩╝")
 print("───────────────╔═╝║")
 print("───────────────╚══╝              v3.0")
-print("[+] Created by UXUS")
+print("[+] Created by uxokpro1234")
 
 #UserAgent
 users = [a, b, c, d, e]
